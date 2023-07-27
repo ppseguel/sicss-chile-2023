@@ -6,6 +6,6 @@ Introducción al uso de fuentes textuales y herramientas de NLP para la investig
 
 ##Materiales
 
-- Lecture and Workshop: Knowledge graphs + Querying Wikidata - Sebastián Ferrada
-- Lecture: Text as Data/NLP intro - Pedro Seguel
-- Workshop: Text Analysis I - Jorge Ortiz
+- Lecture and Workshop: Knowledge graphs + Querying Wikidata - Sebastián Ferrada.
+- Lecture: Text as Data/NLP intro - Pedro Seguel.
+- Workshop: Text Analysis I - Jorge Ortiz.
