@@ -4,7 +4,7 @@
 
 ##Materiales
 
-Overview Lecture: What is Computational Social Science? - Andrés Abeliuk et al.Link
+Overview Lecture: Why SICSS? What is Computational Social Science? - Hernán Sarmiento y Andrés Abeliuk
 
 Keynote: Speaker on Data and Ethics por Claudia López.
 
