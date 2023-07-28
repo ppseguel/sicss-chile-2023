@@ -1,0 +1,47 @@
+---
+title: "Dia 3 Análisis de Texto"
+author: "Pedro Seguel"
+date: "2023-07-28"
+output: html_document
+---
+# Día 3, Ejercicio práctico
+
+_Actividad Grupal_
+
+_Plan de lección: SICSS 2023_
+
+## Resumen
+
+En esta actividad, los participantes trabajarán individualmente en grupos de 2 personas formados a elección en ejercicios de web scraping y análisis de texto.
+
+## Objetivos de aprendizaje
+
+- Ejercitar estrategias y herramientas aprendidas en workshops.
+
+## Preparación de los participantes.
+
+- Los participantes han participado de workshops previamente y tienen acceso a materiales previos al evento.
+
+## Actividad
+
+60 min
+
+**Actividad 1. Web scraping (25 min)**
+
+- Elegir un sitio web que les parezca interesante para practicar web scraping. Algunos ejemplos:
+  - [Noticias en Google](https://www.google.com/search?rlz=1C5CHFA_enCL990CL990&sxsrf=AB5stBiZxC7grKE2Cw_vYOMdxwauTgrPsg:1689787386155&q=google+news&tbm=nws&sa=X&sqi=2&ved=2ahUKEwjT65bHpJuAAxXFD7kGHT4pBqEQ0pQJegQIDRAB&biw=1440&bih=796&dpr=2)
+  - [Lista de Pokemones](https://www.pokemon.com/el/pokedex)
+  - Wikipedia - [Terremoto de Chile](https://es.wikipedia.org/wiki/Terremoto_de_Chile_de_2010) / [Margot Robbie](https://es.wikipedia.org/wiki/Margot_Robbie)
+  - [Spotify - Ranking 50 en Chile](https://open.spotify.com/playlist/37i9dQZEVXbL0GavIqMTeb)
+  - [Google - Tendencias de búsqueda en Chile](https://trends.google.cl/trends/trendingsearches/daily?geo=CL&hl=es)
+  - [Comentarios a video S91de Karol G](https://charts.youtube.com/charts/TrendingVideos/cl?hl=es)
+- Reflexionen brevemente en qué funcionó y que no funcionó de acuerdo a lo esperado.
+
+**Actividad 2. Análisis de texto (25 min)**
+
+- Elegir una base de datos ya sea la de la actividad 1 u otro ejemplo ([algunas ideas pueden encontrarse aquí)](https://docs.google.com/spreadsheets/d/1du_HQS_uOZdOLb-QKcbdtt8csRhcEg3YRvpEI9dFNQY/edit?usp=sharing)
+- Defina un propósito y una posible pregunta de investigación (u objetivo) que pueda hacer uso de estos datos.
+- Realice un análisis descriptivo de la distribución de los documentos y palabras de interés.
+- Realice al menos un análisis y una visualización en base a las herramientas utilizadas en los talleres anteriores. Compartir imagen en el Slack en el canal de chile. Pueden compartir partes de código si es que no lograron llegar a una visualización.
+
+**Discusión grupal (10)**
