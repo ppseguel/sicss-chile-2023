@@ -1,0 +1,41 @@
+---
+title: "Dia 1 Grupos"
+author: "Pedro Seguel"
+date: "2023-07-28"
+output: html_document
+---
+# Día 1, Discusiones en grupos pequeños
+
+_Actividad Grupal_
+
+_Plan de lección: SICSS 2023_
+
+## Resumen
+
+En esta actividad, los participantes se dividirán en pequeños grupos y debatirán sobre ciencias sociales computacionales y SICSS.
+
+## Objetivos de aprendizaje
+
+- Los participantes tendrán la oportunidad de conocerse el primer día.
+- Los participantes desarrollarán sus propios puntos de vista sobre las ciencias sociales computacionales como campo.
+
+## Preparación de los participantes.
+
+- Los participantes preparan 1-3 diapositivas y la envían previamente a sicss.chile@gmail.com
+- Recomendado revisar videos del [Curriculum SICSS](https://sicss.io/curriculum) sobre "[Introduction to Computational Social Science](https://youtu.be/zGG9wPl1C5E)" y [Why SICSS](https://youtu.be/K6HzpZMcaQw)"
+
+## Actividad
+
+_90 min_
+
+- Los participantes se presentan utilizando las diapositivas creadas previamente, 2 min por participante (40 min). [Slides](https://drive.google.com/file/d/1AhoHYvm_9aQJeQYOQJ90E7KgokLmEkIa/view?usp=sharing)
+- Los dividiremos en pequeños grupos de unas 4 personas.
+- Preséntense y discutan lo siguiente (alrededor de 15 minutos): "_¿Qué crees que es la ciencia social computacional? ¿Cuáles son las cosas que más le entusiasman de las ciencias sociales computacionales? ¿Hay estudios específicos de ciencias sociales computacionales que encuentre particularmente interesantes o inspiradores? ¿Qué ejemplos conoces?"_
+- Discutir (alrededor de 15 minutos): "_¿Qué esperas obtener de SICSS? ¿Qué haría que nuestro tiempo juntos fuera más exitoso?"_
+- Debate en grupo completo (unos 20 minutos).
+
+## Agradecimientos:
+
+Traducción basada en lo preparado por Megan Kang y Matt Salganik:
+
+[https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/small\_group\_discussions.md](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/small_group_discussions.md)

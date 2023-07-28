@@ -1,0 +1,92 @@
+---
+title: "Dia 1 Ética"
+author: "Pedro Seguel"
+date: "2023-07-28"
+output: html_document
+---
+# Día 1, Introducción a Ética de Datos Digitales
+
+_Estudio de caso en grupo_
+
+_Plan de lección: SICSS 2023_
+
+## Resumen
+
+En esta actividad, los participantes se dividirán en grupos pequeños (3-5 personas), discutirán un estudio de caso y luego todos se reunirán para discutir y evaluar el caso.
+
+## Objetivos de aprendizaje
+
+- Los participantes identificarán dilemas éticos en decisiones de investigación reales, discutirán cuestiones éticas con colegas y propondrán cambios en el diseño de la investigación para mejorar su equilibrio ético.
+- Los participantes también tendrán la oportunidad de conocerse el primer día.
+
+### Preparación de los participantes
+
+- Recomendado revisar videos del [Curriculum SICSS](https://sicss.io/curriculum) sobre "Ethics" [Part 1](https://youtu.be/A-5QaX5ZiK8) and [Part 2](https://youtu.be/TT6dOQMKHhA)
+
+### Consideraciones
+
+- Hablar de ética puede ser difícil para algunas personas. Mantenga una mente abierta y recuerde que las personas pueden razonablemente estar en desacuerdo sobre muchos de estos temas.
+- Trate de practicar usando los conceptos que aprendió durante el día y materiales previos al evento.
+- Los investigadores casi siempre afirmarán que su investigación tendrá un beneficio público neto y, por lo tanto, sus métodos están justificados. ¿Quién decide si eso es correcto en un caso dado?
+
+## Actividad
+
+En la actividad de hoy, harás dos ejercicios en grupos de 3-5 personas.
+
+### Ejercicio 1 (20 min Grupo + 10 min Discusión Ampliada)
+
+El primer ejercicio discutirá los dilemas éticos de un caso de fuga de datos hackeados. A continuación se muestra el paso a paso:
+
+- Leer un [estudio de caso](https://bdes.datasociety.net/wp-content/uploads/2016/10/Patreon-Case-Study.pdf)de investigadores que se enfrentan a una decisión sobre ética de la investigación con datos digitales.
+- Discutir y responder las cuatro preguntas del estudio de caso (en el documento, página 6).
+- Discute y responde una quinta pregunta: "¿Usarías personalmente los datos hackeados en esta situación?"
+- En los últimos 10 minutos haremos una discusión ampliada.
+
+### Ejercicio 2 (20 min Grupo + 10 min Discusión Ampliada)
+
+Para muchos de ustedes, usar datos hackeados puede parecer un asunto simple. Por lo tanto, creamos la segunda actividad. En este ejercicio, discutan temas a elección que puedan generar dilemas éticos de la investigación en Chile. Puede elegir un artículo publicado, una base de datos, un diseño de investigación. Decida el caso/tema y discuta las siguientes preguntas:
+
+- _¿Qué dilemas éticos están involucrados en este caso?_
+- _¿Cuáles son los beneficios de la investigación? ¿Cuáles son los riesgos?_
+- _¿Se sentiría cómodo su grupo reproduciendo investigaciones similares?_
+- _Responder a la pregunta anterior pensando en los principios éticos tratados en clase (Respeto a la persona Beneficencia, Justicia, Respeto a la ley e interés público)_
+
+Ejemplos de investigaciones académicas sobre CSS que tienen dilemas éticos interesantes para la discusión:
+
+- Casos:
+  - Otros casos de datos filtrados/hackeados.
+  - Recopilación de datos en grupos de WhatsApp, Telegram, etc.
+  - Análisis de redes sociales en protestas sociales.
+  - Predicción de brotes de enfermedades a través de redes sociales o motores de búsqueda.
+  - Uso de datos geolocalizados para patrones migratorios.
+- Artículos publicados:
+  - [Contagio emocional en Facebook](https://www.pnas.org/doi/10.1073/pnas.1320040111) (artículo).
+  - [Bots neutrales en Twitter](https://www.nature.com/articles/s41467-021-25738-6) (artículo).
+  - Uso de imágenes faciales para predecir ideología política [(artículo)](https://www.nature.com/articles/s41598-023-31796-1)u orientación sexual ([artículo](https://psycnet.apa.org/doiLanding?doi=10.1037%2Fpspa0000098))
+  - Huella de carbono de IA y Large Language Models ([nota](https://hai.stanford.edu/news/ais-carbon-footprint-problem)) ([artículo](https://www.nature.com/articles/d41586-022-02064-5))
+
+Si quieres usar cualquier otro, ¡no dudes en hacerlo!
+
+# Agradecimientos
+
+_Preparado por Pedro Seguel y equipo de SICSS Chile, adaptado de SICSS-Princeton y SICSS-FGV DAPP._
+
+_Esta actividad fue diseñada con las contribuciones de los participantes y TA de SICSS 2017-2019, especialmente Yo-Yo Chen, Janet Xu y Simone Zhang:_ [_https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/small\_group\_discussions.md_](https://github.com/compsocialscience/summer-institute/blob/master/2021/materials/day1-intro-ethics/small_group_discussions.md)
+
+## Horario aproximado
+
+Tiempo total: 90 min
+
+Introducción de la actividad (15 min)
+
+### Ejercicio 1: (30 min)
+
+- 20 minutos: leer y discutir el estudio de caso en pequeños grupos; responde cuatro preguntas más una: "¿Usaría los datos pirateados en su investigación?"
+- 10 minutos: discusión guiada del estudio de caso por todos los participantes dirigidos por el organizador local
+
+### Ejercicio 2: (30 min)
+
+- 20 minutos: Decidir sobre un segundo estudio de caso en pequeños grupos; y discuta en su grupo.
+- 10 minutos: discusión guiada del estudio de caso por todos los participantes dirigidos por el organizador local
+
+### Cierre: (15 min)
