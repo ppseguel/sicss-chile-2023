@@ -1,0 +1,46 @@
+---
+title: "SpeedDating_día5_Instructor"
+author: "Pedro Seguel"
+date: "2023-07-28"
+output: html_document
+---
+# **Research Speed Dating**
+
+Guía instructor Día 5
+
+SICSS-Chile 2023
+
+- Utilizar presentación base.
+- Plantilla de intereses: [https://docs.google.com/spreadsheets/d/1z3pOZeMhsGjocHPyGdfvmcsVhnYQllxkcX42sVNTPDk/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1z3pOZeMhsGjocHPyGdfvmcsVhnYQllxkcX42sVNTPDk/edit?usp=sharing)
+- Código para clusters y visualización:
+  - En Python:
+  - En R: [https://colab.research.google.com/drive/1iVPeZ7GZ\_avrZJLMnnqcHEos2heHtxVy?usp=sharing](https://colab.research.google.com/drive/1iVPeZ7GZ_avrZJLMnnqcHEos2heHtxVy?usp=sharing)
+- Lista de ideas: [https://docs.google.com/document/d/1bzIclvI1Ja0muWjpElO2bhZ1ErfL1hVyc0eI-PAwsSs/edit?usp=drive\_link](https://docs.google.com/document/d/1bzIclvI1Ja0muWjpElO2bhZ1ErfL1hVyc0eI-PAwsSs/edit?usp=drive_link)
+
+**Objetivos:**
+
+- Transmitir la importancia del trabajo colaborativo para la investigación y aprendizaje de nuevas herramientas.
+- Reunir participantes en grupos con intereses similares y opuestos.
+- Creación de un listado de ideas de trabajo para la formación de equipos.
+- Formar equipos (no más de 5 equipos de trabajo).
+
+**Research Speed Dating Logistics**
+
+_Tiempo total 200 min_
+
+- Se realiza presentación cubriendo la importancia del trabajo colaborativo, como se procederá a realizar el speed dating, y cómo se trabajará en grupo las semanas siguientes (30 min).
+- Se invita a los participantes a llenar una planilla de temas de interés (10 min).
+- Break para realización de los cluster (10 min). 5 cluster basado en similitud y 5 diferencias.
+- Se regresa y se presentan los nombres de 5 clusters basados en similitudes. Se recuerda el objetivo de crear lista de ideas, se pueden inscribir más de una idea por cluster. (5 minutos)
+- Trabajo en cluster similares, se recuerda 10 minutos antes de cierre que tienen que escribir ideas en el documento (30 min).
+- Se regresa y se presentan los nombres de 5 grupos basados en diferencias. Se recuerda el objetivo de crear lista de ideas, se pueden inscribir más de una idea por cluster. (5 minutos).
+- Trabajo en cluster diferentes, se recuerda 10 minutos antes de cierre que tienen que escribir ideas en el documento (30 min).
+- Lectura y presentación conjunta de ideas en documento. (30 min)
+- Todos ponen su nombre junto al proyecto de grupo al que quieren unirse (10 min)
+- Formación de equipos y primera reunión de coordinación entre equipos (30 min)
+  - Se recomienda definir metas, pasos necesarios, y ambiente de trabajo.
+- Cierre, se recuerda el timeline de la próxima semana (10 min)
+
+## Agradecimientos:
+
+_Presentación y Materiales basados en materiales de Chris Bail para SICSS 2022 y adaptados para SICSS Chile 2023:_ [_https://github.com/ppseguel/summer-institute/tree/master/2022/materials/research-speed-dating_](https://github.com/ppseguel/summer-institute/tree/master/2022/materials/research-speed-dating)
